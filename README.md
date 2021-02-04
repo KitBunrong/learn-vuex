@@ -1,4 +1,5 @@
 # learn-vuex
+window is here...
 
 ## Project setup
 ```
